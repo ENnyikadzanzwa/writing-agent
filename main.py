@@ -1,5 +1,5 @@
 import streamlit as st
-import openai
+
 from json import loads
 from requests import post
 
